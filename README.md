@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romeorpj" alt="romeorpj" /></a> </p>
 
-- 🔭 I’m currently leading the frontend in team of my bootcamps final project **videoWorks (it's somewhat of a fiverr clone)**
+- 🔭 I’m currently leading the frontend team of my bootcamps final capstone project **videoWorks (it's somewhat of a fiverr clone)**
 
 - 🌱 I’m currently diving deeper into **React and Typescript**
 

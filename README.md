@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romeorpj&label=Profile%20views&color=0e75b6&style=flat" alt="romeorpj" /> </p>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=romeorpj&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=romeorpj&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently leading the frontend team of my bootcamps final capstone project **videoWorks (it's somewhat of a fiverr clone)**
 

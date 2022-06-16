@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Richard Jackson</h1>
 <h3 align="center">Apparently I'm a crazy frontend nerd because there's nothing more enjoyable to me than facing tough problems and figuring out creative ways to solve them (tea is absolutely apart of that process).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romeorpj&label=Profile%20views&color=0e75b6&style=flat" alt="romeorpj" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=romeorpj&label=Profile%20views&color=0e75b6&style=flat" alt="romeorpj" /> </p> -->
 
 - 🔭 I’m currently leading the frontend team of my bootcamps final capstone project **videoWorks (it's somewhat of a fiverr clone)**
 

@@ -7,11 +7,11 @@
 
 - 🔭 I love React and Next.js*
 
-- 👨‍💻 My portfolio and projects are available at [https://romeorpj.github.io/richard-jackson/](https://romeorpj.github.io/richard-jackson/)
+- 👨‍💻 My portfolio and projects are available at [~~https://romeorpj.github.io/richard-jackson/~~](#) UNDER CONSTRUCTION
 
 - 💬 Ask me about how I can help you bring your web app ideas to life or help you better manage your projects!
 
-- 📄 Know about my experiences [https:uuuuuuuuu//docs.google.com/document/d/1pAlkLpYgkLBOPVLnieJS9bPdSF8k7qlAigVLGupbtTM/edit?usp=sharing](https://docs.google.com/document/d/1pAlkLpYgkLBOPVLnieJS9bPdSF8k7qlAigVLGupbtTM/edit?usp=sharing)
+- 📄 Know about my experiences [Click to view my resume](https://docs.google.com/document/d/1pAlkLpYgkLBOPVLnieJS9bPdSF8k7qlAigVLGupbtTM/edit?usp=sharing)
 
 - ⚡ Fun fact **Currently learning how to play the saxophone**
 

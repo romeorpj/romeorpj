@@ -1,17 +1,17 @@
 
 
-<h1 align="center">Hi 👋, I'm Richard Jackson</h1>
+<h1 align="center">Hi 👋, I'm mostAnon</h1>
 <h3 align="center">Currently working as a frontend React/typescript developer.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=romeorpj&label=Profile%20views&color=0e75b6&style=flat" alt="romeorpj" /> </p> -->
 
 - 🔭 I love React and Next.js*
 
-- 👨‍💻 My portfolio and projects are available at [~~https://romeorpj.github.io/richard-jackson/~~](#) UNDER CONSTRUCTION
+- 👨‍💻 My portfolio and projects are available at Anon
 
 - 💬 Ask me about how I can help you bring your web app ideas to life or help you better manage your projects!
 
-- 📄 Know about my experiences [Click to view my resume](https://docs.google.com/document/d/1pAlkLpYgkLBOPVLnieJS9bPdSF8k7qlAigVLGupbtTM/edit?usp=sharing)
+- 📄 Know about my experiences Anon
 
 - ⚡ Fun fact **Currently learning how to play the saxophone**
 
